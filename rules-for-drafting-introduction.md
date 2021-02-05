@@ -1,5 +1,12 @@
 # 说明编写规范 Rules for Drafting Introduction
 
+## 文档约定
+{% hint style="warning" %}
+不要从GitBook中进行对本文档进行修改，若要修改只能从GitHub中提交PR。
+
+从GitBook修改之后会替换掉GitHub中的markdown语法，文章的整体表达格式会被改变，会添加很多转义符号（HTML中明文表达的缘故），会将图片中的中文换成十六进制的GBK编码，影响在本地markdown编辑的视觉观感。
+{% endhint %}
+
 ## 术语说明
 
 ### 物品
